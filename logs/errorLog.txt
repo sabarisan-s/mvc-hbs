@@ -1,0 +1,42 @@
+2024-03-30 05:20:18 39a04371-ec46-444d-b414-a650c8cf06dd Error Parse error on line 14:
+... </form></section>
+----------------------^
+Expecting 'OPEN_ENDBLOCK', got 'EOF'
+
+2024-03-30 05:21:32 43d4223e-d35b-45f9-88c1-c380ec4ae8c1 Error Parse error on line 14:
+... </form></section>
+----------------------^
+Expecting 'OPEN_ENDBLOCK', got 'EOF'
+
+2024-03-30 05:21:44 7ea79aef-68fb-47e6-89bb-ca41d69c7de4 Error Parse error on line 14:
+... </form></section>
+----------------------^
+Expecting 'OPEN_ENDBLOCK', got 'EOF'
+
+2024-03-30 05:26:03 f22982a3-c4aa-4e3b-b113-e69321b595dc Error Parse error on line 14:
+... </form></section>
+----------------------^
+Expecting 'OPEN_ENDBLOCK', got 'EOF'
+
+2024-03-30 05:29:47 df67094f-0cb5-4e52-bb22-990a2ddd3e56 Error Failed to lookup view "/" in views directory "C:\Users\Santha Kumar\Desktop\mvcproject\views"
+
+2024-03-30 05:51:07 8e4d1c19-e1bc-45bc-8723-c520c198dbaa ReferenceError eamil is not defined
+
+2024-03-30 05:51:35 1ec1a426-0ff0-490e-97ba-0e268ef2b159 ReferenceError eamil is not defined
+
+2024-03-30 05:52:57 b93a7b24-7411-4cb0-b73c-92fc24cc6863 ReferenceError eamil is not defined
+
+2024-03-30 05:53:22 2ab66f81-0ad0-4a68-b0ac-6069e8ee0b83 ReferenceError eamil is not defined
+
+2024-03-30 05:54:07 0bd9d56f-dfc6-45f7-9cd2-bf1e8c252b84 ReferenceError eamil is not defined
+
+2024-03-30 05:54:27 b1e0c1a7-7a66-49ce-8e9e-430ff18fc2f0 ReferenceError eamil is not defined
+
+2024-03-30 05:54:37 79516cad-66c3-4cf3-a15f-2219e8de7033 ReferenceError eamil is not defined
+
+2024-03-30 05:55:35 e3148d5f-4aa6-4d6f-a678-0f9c083cc70f ReferenceError eamil is not defined
+
+2024-03-30 05:56:02 b52dd178-1ea4-411a-8c02-ec271c98e4da Error Failed to lookup view "/dashboard" in views directory "C:\Users\Santha Kumar\Desktop\mvcproject\views"
+
+2024-03-30 05:57:25 35b6789b-930e-4b17-bec4-b2add725191b Error Failed to lookup view "/dashboard" in views directory "C:\Users\Santha Kumar\Desktop\mvcproject\views"
+

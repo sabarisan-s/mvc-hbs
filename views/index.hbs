@@ -1,0 +1,25 @@
+<section class="index">
+  <h1>Form Regiester | <a style="color: #a6eae7;" href="/login">Login</a></h1>
+  <small style="color: #d61e4f;">{{message}}</small>
+  <form action="/form_create" method="post">
+    <label for="name">Name :</label>
+    <input type="text" name="name" id="name" placeholder="Enter Your Name" />
+    <label for="number">Number :</label>
+    <input
+      type="text"
+      name="number"
+      id="number"
+      placeholder="+91 99999 99999"
+    />
+    <label for="email">Email :</label>
+    <input
+      type="text"
+      name="email"
+      id="email"
+      placeholder="yourawesome@email"
+    />
+    <label for="password">Password :</label>
+    <input type="text" name="password" id="password" />
+    <input type="submit" name="submit" class="submit" />
+  </form>
+</section>
